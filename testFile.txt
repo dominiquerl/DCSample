@@ -1,6 +1,3 @@
-
-
-
 Reopen ticket
 
 Testing Integration GitHub + YouTrack

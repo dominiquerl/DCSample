@@ -19,11 +19,3 @@ Testing 3
 Testing 4
 
 New Ticket TO-10
-
-Test
-
-New Test
-
-New Test
-
-Reopen ticket

@@ -1,4 +1,3 @@
-
 Reopen ticket
 
 Testing Integration GitHub + YouTrack
@@ -20,3 +19,7 @@ Testing 4
 New Ticket TO-10
 
 Adding Estimation commit
+
+Changing priority
+
+Adding last commit

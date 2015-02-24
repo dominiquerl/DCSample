@@ -2,9 +2,6 @@ Testing Integration GitHub + YouTrack
 
 Mofiying file Dominique
 
-
-
-
 Testing again
 
 One more...
